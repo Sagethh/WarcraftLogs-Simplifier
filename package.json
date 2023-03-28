@@ -41,6 +41,9 @@
   "devDependencies": {
     "nodemon": "^2.0.12"
   },
+    "engines": {
+    "node": "14.17.6"
+  }
   "browserslist": [
     ">0.2%",
     "not dead",
