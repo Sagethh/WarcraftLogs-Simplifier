@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:5000",
+  "engines": {
+    "node": "14.17.6"
+  },
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/data-grid": "^4.0.0-alpha.35",
@@ -41,9 +44,6 @@
   "devDependencies": {
     "nodemon": "^2.0.12"
   },
-    "engines": {
-    "node": "14.17.6"
-  }
   "browserslist": [
     ">0.2%",
     "not dead",
